@@ -1,3 +1,3 @@
-# Who needs a green back ground ???
+# Who needs a green background ???
 
 Sementic segmentation application with PyTorch and other stuff
