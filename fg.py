@@ -3,4 +3,4 @@
 import sys as s 
 from functions import seeyagreenbg as cya
 
-cya()
+cya(s.argv[1])
